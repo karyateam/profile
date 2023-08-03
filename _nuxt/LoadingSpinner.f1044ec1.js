@@ -1,0 +1,1 @@
+import{_ as e,o,c as _}from"./entry.7b0d929d.js";const n={},t={class:"border-white-600 rounded-full loader w-4 h-4 border-2"};function r(s,c,a,d,p,i){return o(),_("div",t)}const u=e(n,[["render",r]]);export{u as _};
